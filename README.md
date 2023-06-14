@@ -26,7 +26,7 @@
 
 ![image](https://github.com/LxstHokage/Botstrap/assets/109164076/32ddec60-64db-4a21-a7fd-134d7166fe8d)
 
-Ссылки на файлы сайта находятся в репозитории.
+Ссылки на файлы сайта находятся в репозитории. [Ссылка на сайт](https://lxsthokage.github.io/Bootstrap/)
 
 Удачи!
 
